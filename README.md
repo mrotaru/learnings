@@ -5,6 +5,10 @@
 
 ## 2016-W32
 
+### 2016-08-10
+- :movie_camera: https://www.youtube.com/watch?v=IrgHurBjQbg 
+    - introduction to Relay
+
 ### 2016-08-08
 - :scroll: https://www.smashingmagazine.com/2016/08/optimizing-critical-path-performance-with-express-server-and-handlebars/
 
