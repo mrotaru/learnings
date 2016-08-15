@@ -3,12 +3,27 @@
 - progressive web apps: https://www.youtube.com/playlist?list=PLNYkxOF6rcIAWWNR_Q6eLPhsyx6VvYjVb 
 - service workers
 
+## 2016-W33
+
+
 ## 2016-W32
 
 ### 2016-08-10
 - :movie_camera: https://www.youtube.com/watch?v=IrgHurBjQbg 
     - introduction to Relay
 
+### 2016-08-12
+- :movie_camera: https://egghead.io/courses/getting-started-with-redux
+    - http://jsbin.com/fetacu/9/edit?html,js,output 
+
+### 2016-08-13
+- :movie_camera: https://egghead.io/courses/getting-started-with-redux
+    - http://jsbin.com/vamomil/2/edit?html,js,output
+
+### 2016-08-14
+- :movie_camera: https://egghead.io/courses/getting-started-with-redux
+    - 10-15 https://plnkr.co/edit/nG9iMSAK8crfgoOJ8fu6?p=preview 
+     
 ### 2016-08-08
 - :scroll: https://www.smashingmagazine.com/2016/08/optimizing-critical-path-performance-with-express-server-and-handlebars/
 
