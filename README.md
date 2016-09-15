@@ -3,13 +3,19 @@
 - progressive web apps: https://www.youtube.com/playlist?list=PLNYkxOF6rcIAWWNR_Q6eLPhsyx6VvYjVb 
 - service workers
 
+## 2016-W37
+
+### 2016-09-13
+- :movie_camera: finished the Egghead course on Redux
+
 ## 2016-W33
 
-## 2016-08-16
+### 2016-08-16
 -:movie_camera: https://egghead.io/lessons/javascript-redux-react-todo-list-example-toggling-a-todo 
-    -https://plnkr.co/edit/50xAg6XpPacsqf2uurCX?p=preview (#17)
+    - https://plnkr.co/edit/50xAg6XpPacsqf2uurCX?p=preview (#17)
+    - https://plnkr.co/edit/WVE7W3D5YioLP9Ru99Gm?p=preview (#18)
 
-## 2016-08-15
+### 2016-08-15
 - :movie_camera: https://egghead.io/lessons/javascript-redux-react-todo-list-example-adding-a-todo (#16)
    - https://plnkr.co/edit/zSW6PTQ4afje7JDZgxUq?p=preview 
 
