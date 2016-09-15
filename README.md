@@ -8,6 +8,10 @@
 ### 2016-09-13
 - :movie_camera: finished the Egghead course on Redux
 
+### 2016-09-15
+- :movie_camera: https://www.youtube.com/watch?v=-jwQ3sGoiXg 
+- :movie_camera: https://egghead.io/lessons/javascript-redux-persisting-the-state-to-the-local-storage?course=building-react-applications-with-idiomatic-redux 
+
 ## 2016-W33
 
 ### 2016-08-16
